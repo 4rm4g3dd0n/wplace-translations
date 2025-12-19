@@ -1,4 +1,5 @@
 {
+  "iso_code":"fr_fr",
   "flag": "🇫🇷",
   "title": "Classement Wplace",
   "title2": "Classement Wplace - {{type}}",
@@ -41,5 +42,12 @@
   "unknown_page": "Page introuvable",
   "unknown_page_description": "La page que vous cherchez n’existe pas ou a été déplacée.",
   "home": "Accueil",
-  "go_back": "Retour"
+  "go_back": "Retour",
+  "id":"ID",
+  "leave_a_comment":"Laisser un commentaire",
+  "comment_placeholder":"Votre commentaire...",
+  "send":"Envoyer",
+  "comments":"commentaires",
+  "show_replies":"Montrer les réponses ({{count}})",
+  "reply":"Répondre"
 }

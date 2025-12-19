@@ -1,4 +1,5 @@
 {
+  "iso_code":"en_us",
   "flag": "🇺🇸",
   "title": "Wplace Ranking",
   "title2": "Wplace Ranking - {{type}}",
@@ -41,5 +42,12 @@
   "unknown_page": "Page not found",
   "unknown_page_description": "The page you are looking for does not exist or has been moved.",
   "home": "Accueil",
-  "go_back": "Retour"
+  "go_back": "Retour",
+  "id":"ID",
+  "leave_a_comment":"Leave a comment",
+  "comment_placeholder":"Your comment...",
+  "send":"Send",
+  "comments":"Comments",
+  "show_replies":"Show replies ({{count}})",
+  "reply":"Reply"
 }
