@@ -51,6 +51,6 @@
   "show_replies":"Montrer les réponses ({{count}})",
   "reply":"Répondre",
   "replying_to":"Répondre à {{username}}",
-  "comment_error_length":"Le commentaire doit être entre {{min}} et {max} caractères.",
+  "comment_error_length":"Le commentaire doit être entre {{min}} et {{max}} caractères.",
   "comment_error_captcha":"Veuillez effectuer le test captcha avant d'envoyer votre commentaire."
 }
